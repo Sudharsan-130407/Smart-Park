@@ -1,0 +1,6 @@
+{
+  "name": "AeroPark 3D - Smart Parking System",
+  "description": "Real-time 3D smart parking digital twin featuring procedural vehicle tracking, automated bay sensors, dynamic pricing, and multi-tier Gemini AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
